@@ -1,4 +1,3 @@
-// src/components/Footer.tsx
 import React from "react";
 import "font-awesome/css/font-awesome.min.css";
 
@@ -9,7 +8,7 @@ export const Footer: React.FC = () => {
         <div className="row">
           {/* Contactos */}
           <div className="col-xs-6 col-md-4">
-            <h6>Contactos</h6>
+            <h4>Contactos</h4>
             <p>
               📞 +54 341 5420271 <br />
               📞 +54 341 5480104 <br />
