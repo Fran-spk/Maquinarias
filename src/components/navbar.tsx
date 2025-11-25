@@ -19,7 +19,7 @@ export const Navbar = () => {
           </button>
 
           <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-            <Link className="navbar-brand" to="/">
+            <Link className="navbar-brand" to="/Maquinas">
               Home
             </Link>
 
