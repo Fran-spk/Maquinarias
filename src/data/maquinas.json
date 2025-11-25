@@ -1,0 +1,205 @@
+[
+   {
+    "nombre": "Granalladora de tubos industrial",
+    "precio": 3500,
+    "descripcion": "Máquina industrial diseñada para la limpieza y preparación de superficies internas y externas de tubos mediante granallado. Ideal para procesos de recubrimiento y anti-corrosión.",
+    "moneda": "USD",
+    "Imagenes": {
+      "img1": "/images/Granalladora de tubos industrial/Granalladora de tubos industrial 1.jpeg",
+      "img2": "/images/Granalladora de tubos industrial/Granalladora de tubos industrial 2.jpeg",
+      "img3": "/images/Granalladora de tubos industrial/Granalladora de tubos industrial 3.jpeg",
+      "img4": "/images/Granalladora de tubos industrial/Granalladora de tubos industrial 4.jpeg",
+      "img5": "/images/Granalladora de tubos industrial/Granalladora de tubos industrial 5.jpeg",
+      "img6": "/images/Granalladora de tubos industrial/Granalladora de tubos industrial 6.jpeg",
+      "img7": "/images/Granalladora de tubos industrial/Granalladora de tubos industrial 7.jpeg",
+      "img8": "/images/Granalladora de tubos industrial/Granalladora de tubos industrial 8.jpeg",
+      "img9": "/images/Granalladora de tubos industrial/Granalladora de tubos industrial 9.jpeg"
+    }
+  },
+  {
+    "nombre": "Maquina etiquetadora",
+    "precio": 5000,
+    "descripcion": "Equipo semiautomático o automático para la aplicación precisa de etiquetas autoadhesivas en envases, botellas o productos. Optimiza la línea de empaque.",
+    "moneda": "USD",
+    "Imagenes": {
+      "img1": "/images/Maquina etiquetadora/Maquina etiquetadora 1.jpeg",
+      "img2": "/images/Maquina etiquetadora/Maquina etiquetadora 2.jpeg",
+      "img3": "/images/Maquina etiquetadora/Maquina etiquetadora 3.jpeg",
+      "img4": "/images/Maquina etiquetadora/Maquina etiquetadora 4.jpeg",
+      "img5": "/images/Maquina etiquetadora/Maquina etiquetadora 5.jpeg"
+    }
+  },
+  {
+    "nombre": "Cuerpo de prensa hidráulica 25tn",
+    "precio": 700000,
+    "descripcion": "Estructura principal de prensa hidráulica con capacidad de 25 toneladas. Ideal para trabajos de enderezado, doblado y ensamblaje con alta presión.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Cuerpo de prensa/Cuerpo de prensa 1.jpeg",
+      "img2": "/images/Cuerpo de prensa/Cuerpo de prensa 2.jpeg"
+    }
+  },
+  {
+    "nombre": "Fresadoras universales N°1",
+    "precio": 1100000,
+    "descripcion": "Fresadora versátil de tamaño N°1 apta para realizar una amplia gama de operaciones de mecanizado, incluyendo fresado vertical, horizontal e inclinado.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Fresadoras universales n1/Fresadoras universales N°1 1.jpeg",
+      "img2": "/images/Fresadoras universales n1/Fresadoras universales N°1 2.jpeg",
+      "img3": "/images/Fresadoras universales n1/Fresadoras universales N°1 3.jpeg",
+      "img4": "/images/Fresadoras universales n1/Fresadoras universales N°1 4.jpeg",
+      "img5": "/images/Fresadoras universales n1/Fresadoras universales N°1 5.jpeg",
+      "img6": "/images/Fresadoras universales n1/Fresadoras universales N°1 6.jpeg",
+      "img7": "/images/Fresadoras universales n1/Fresadoras universales N°1 7.jpeg",
+      "img8": "/images/Fresadoras universales n1/Fresadoras universales N°1 8.jpeg"
+    }
+  },
+  {
+    "nombre": "Arenadora",
+    "precio": 1400000,
+    "descripcion": "Equipo utilizado para la limpieza abrasiva de superficies mediante la proyección de arena u otros medios. Esencial para eliminar óxido, pintura y preparar materiales.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Arenadora/arenadora 1.jpeg",
+      "img2": "/images/Arenadora/arenadora 2.jpeg",
+      "img3": "/images/Arenadora/arenadora 3.jpeg",
+      "img4": "/images/Arenadora/arenadora 4.jpeg",
+      "img5": "/images/Arenadora/arenadora 5.jpeg"
+    }
+  },
+  {
+    "nombre": "Lavadora de piezas industrial",
+    "precio": 500000,
+    "descripcion": "Máquina robusta diseñada para limpiar grandes volúmenes de piezas metálicas o plásticas utilizando soluciones acuosas o detergentes, garantizando la eliminación de aceites y residuos.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Lavadora/Lavadora de piezas industrial 1.jpeg",
+      "img2": "/images/Lavadora/Lavadora de piezas industrial 2.jpeg",
+      "img3": "/images/Lavadora/Lavadora de piezas industrial 3.jpeg",
+      "img4": "/images/Lavadora/Lavadora de piezas industrial 4.jpeg",
+      "img5": "/images/Lavadora/Lavadora de piezas industrial 5.jpeg"
+    }
+  },
+  {
+    "nombre": "Cilindradora de 4 metros",
+    "precio": 3500000,
+    "descripcion": "Máquina para el curvado y formación de chapas metálicas de hasta 4 metros de longitud, ideal para tanques, tubos grandes y estructuras curvas.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Cilindradora de 4 metros/Cilindradora de 4 metros 1.jpeg",
+      "img2": "/images/Cilindradora de 4 metros/Cilindradora de 4 metros 2.jpeg",
+      "img3": "/images/Cilindradora de 4 metros/Cilindradora de 4 metros 3.jpeg",
+      "img4": "/images/Cilindradora de 4 metros/Cilindradora de 4 metros 4.jpeg",
+      "img5": "/images/Cilindradora de 4 metros/Cilindradora de 4 metros 5.jpeg",
+      "img6": "/images/Cilindradora de 4 metros/Cilindradora de 4 metros 6.jpeg",
+      "img7": "/images/Cilindradora de 4 metros/Cilindradora de 4 metros 7.jpeg",
+      "img8": "/images/Cilindradora de 4 metros/Cilindradora de 4 metros 8.jpeg"
+    }
+  },
+  {
+    "nombre": "Balancín de 100 toneladas",
+    "precio": 12000000,
+    "descripcion": "Máquina de estampado o corte con una fuerza nominal de 100 toneladas. Utilizado en la industria metalmecánica para la producción en serie de piezas.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Balancin/Balancin 1.jpeg",
+      "img2": "/images/Balancin/Balancin 2.jpeg",
+      "img3": "/images/Balancin/Balancin 3.jpeg",
+      "img4": "/images/Balancin/Balancin 4.jpeg",
+      "img5": "/images/Balancin/Balancin 5.jpeg"
+    }
+  },
+  {
+    "nombre": "Compresor a tornillo 30 HP",
+    "marca": "V.M.C",
+    "precio": 9000000,
+    "descripcion": "Compresor de aire industrial de 30 Caballos de Vapor (HP), tecnología a tornillo V.M.C., ideal para mantener un flujo de aire constante y eficiente en procesos productivos.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Compresor a tornillo 30 HP/Compresor a tornillo 1.jpeg",
+      "img2": "/images/Compresor a tornillo 30 HP/Compresor a tornillo 2.jpeg",
+      "img3": "/images/Compresor a tornillo 30 HP/Compresor a tornillo 3.jpeg"
+    }
+  },
+  {
+    "nombre": "Compresor a tornillo DMD 1000 EV 50 HP (potencia variable)",
+    "precio": 19500000,
+    "descripcion": "Compresor de aire de 50 HP de potencia variable (EV), modelo DMD 1000. Ofrece eficiencia energética ajustando la potencia a la demanda real de aire comprimido.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Compresor a tornillo DMD 1000 EV 50 HP/Compresor a tornillo DMD 1000 EV 50 HP 1.jpeg",
+      "img2": "/images/Compresor a tornillo DMD 1000 EV 50 HP/Compresor a tornillo DMD 1000 EV 50 HP 2.jpeg",
+      "img3": "/images/Compresor a tornillo DMD 1000 EV 50 HP/Compresor a tornillo DMD 1000 EV 50 HP 3.jpeg"
+    }
+  },
+  {
+    "nombre": "Guillotina de 1 metro",
+    "precio": 2800000,
+    "descripcion": "Máquina cizalla tipo guillotina con capacidad de corte de 1 metro de ancho. Utilizada para el corte recto y preciso de chapas metálicas.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Guillotina de 1 metro/Guillotina de 1 metro 1.jpeg",
+      "img2": "/images/Guillotina de 1 metro/Guillotina de 1 metro 2.jpeg",
+      "img3": "/images/Guillotina de 1 metro/Guillotina de 1 metro 3.jpeg",
+      "img4": "/images/Guillotina de 1 metro/Guillotina de 1 metro 4.jpeg"
+    }
+  },
+  {
+    "nombre": "Agujereadora de pie + mesa en cruz (cono 3, avances automáticos)",
+    "precio": 1900000,
+    "descripcion": "Taladro de columna de precisión con cono Morse N°3 y equipada con una mesa en cruz que permite avances automáticos en los ejes X e Y para trabajos seriales.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Agujereadora de pie_mesa en cruz/Agujereadora de pie_mesa en cruz 1.jpeg",
+      "img2": "/images/Agujereadora de pie_mesa en cruz/Agujereadora de pie_mesa en cruz 2.jpeg",
+      "img3": "/images/Agujereadora de pie_mesa en cruz/Agujereadora de pie_mesa en cruz 3.jpeg",
+      "img4": "/images/Agujereadora de pie_mesa en cruz/Agujereadora de pie_mesa en cruz 4.jpeg"
+    }
+  },
+  {
+    "nombre": "Fresadora de banco",
+    "precio": 4900000,
+    "descripcion": "Fresadora compacta de diseño de banco, adecuada para talleres pequeños y medianos que requieren operaciones de fresado de alta precisión en piezas de menor tamaño.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Fresadora de banco/Fresadora de banco 1.jpeg",
+      "img2": "/images/Fresadora de banco/Fresadora de banco 2.jpeg",
+      "img3": "/images/Fresadora de banco/Fresadora de banco 3.jpeg",
+      "img4": "/images/Fresadora de banco/Fresadora de banco 4.jpeg",
+      "img5": "/images/Fresadora de banco/Fresadora de banco 5.jpeg",
+      "img6": "/images/Fresadora de banco/Fresadora de banco 6.jpeg",
+      "img7": "/images/Fresadora de banco/Fresadora de banco 7.jpeg",
+      "img8": "/images/Fresadora de banco/Fresadora de banco 8.jpeg"
+    }
+  },
+  {
+    "nombre": "Fresadora Horizontal N°2",
+    "precio": 3500000,
+    "descripcion": "Fresadora de configuración horizontal, tamaño N°2. Utilizada principalmente para el fresado de ranuras, engranajes y superficies planas con herramientas montadas en un eje horizontal.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Fresadora horizontal n2/Fresadora horizontal n2 1.jpeg",
+      "img2": "/images/Fresadora horizontal n2/Fresadora horizontal n2 2.jpeg",
+      "img3": "/images/Fresadora horizontal n2/Fresadora horizontal n2 3.jpeg",
+      "img4": "/images/Fresadora horizontal n2/Fresadora horizontal n2 4.jpeg",
+      "img5": "/images/Fresadora horizontal n2/Fresadora horizontal n2 5.jpeg",
+      "img6": "/images/Fresadora horizontal n2/Fresadora horizontal n2 6.jpeg",
+      "img7": "/images/Fresadora horizontal n2/Fresadora horizontal n2 7.jpeg"
+    }
+  },
+  {
+    "nombre": "Afiladora universal de herramientas",
+    "precio": 1400000,
+    "descripcion": "Máquina diseñada para afilar y rectificar una variedad de herramientas de corte (fresas, brocas, etc.), asegurando el mantenimiento de filos precisos.",
+    "moneda": "ARS",
+    "Imagenes": {
+      "img1": "/images/Afiladora universal de herramientas/Afiladora universal de herramientas 1.jpeg",
+      "img2": "/images/Afiladora universal de herramientas/Afiladora universal de herramientas 2.jpeg",
+      "img3": "/images/Afiladora universal de herramientas/Afiladora universal de herramientas 3.jpeg",
+      "img4": "/images/Afiladora universal de herramientas/Afiladora universal de herramientas 4.jpeg",
+      "img5": "/images/Afiladora universal de herramientas/Afiladora universal de herramientas 5.jpeg",
+      "img6": "/images/Afiladora universal de herramientas/Afiladora universal de herramientas 6.jpeg"
+    }
+  }
+]
