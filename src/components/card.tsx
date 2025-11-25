@@ -1,4 +1,4 @@
-import React from 'react';
+
 import type { Maquina } from '../types/maquina';
 import  '../styles/cards.css';
 import { Carousel } from './carousel';
