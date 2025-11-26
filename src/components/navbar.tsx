@@ -19,13 +19,13 @@ export const Navbar = () => {
           </button>
 
           <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-            <Link className="navbar-brand" to="/Maquinas">
+            <Link className="navbar-brand" to="/maquinas">
               Home
             </Link>
 
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" to="/Maquinas">
+                <Link className="nav-link active" aria-current="page" to="/maquinas">
                   Maquinas
                 </Link>
               </li>
@@ -36,7 +36,7 @@ export const Navbar = () => {
                 </a>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/Contacto">
+                <Link className="nav-link" to="/formulario">
                   Contacto
                 </Link>
               </li>

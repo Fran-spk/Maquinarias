@@ -7,7 +7,7 @@ export const AppRouter=()=> {
     <Routes>
       <Route index element={<Maquinas />} />
       <Route path="/maquinas" element={<Maquinas/>} />
-      <Route path="/about" element={<Formulario/>} />
+      <Route path="/formulario" element={<Formulario/>} />
     </Routes>
   );
 }
