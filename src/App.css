@@ -17,6 +17,9 @@
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
+body {
+  padding-top: 80px; /* ajustar según el alto real de la navbar */
+}
 
 @keyframes logo-spin {
   from {
@@ -40,4 +43,3 @@
 .read-the-docs {
   color: #888;
 }
-
